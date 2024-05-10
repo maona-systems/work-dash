@@ -7,8 +7,13 @@
 * Find order
 * Update order
 
+* Line consist of modules
+* Line service plan
+* Opex
+
 * View current order
 * View previous orders
+* Line requests
 
 * View order
 * current-phase

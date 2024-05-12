@@ -2,6 +2,8 @@
 
 ### Homepage
 
+an actual procedure on how to manage the documents
+
 * Display orders
 * View order
 * Find order
